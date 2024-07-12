@@ -5,4 +5,4 @@ This program is made by me (not a good programmer) LITERALLY copying this [video
 Download the serverphonegui and the clientpc, for the serverphonegui i tried only with [pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US&pli=1) and it works, you just copy the serverphonegui
 to your android device run the gui.py. For the clientpc just run the .bat.
 # Configuration
-gotta finish this repository today
+Make sure your pc and phone are connected to the same wifi then change the ipdato in serverphonegui and clientpc to your phone ip. If your phone isn't 1080x1920 then somethings could cut out of the screen but i don't know how to scale things for other screens that aren't 1080x1920 so if you know how to do it then report it to issues
