@@ -5,3 +5,4 @@ This program is made by me (not a good programmer) LITERALLY copying this [video
 Download the serverphonegui and the clientpc, for the serverphonegui i tried only with [pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US&pli=1) and it works, you just copy the serverphonegui
 to your android device run the gui.py. For the clientpc just run the .bat.
 # Configuration
+gotta finish this repository today
