@@ -5,5 +5,17 @@ This program is made by me (not a good programmer) LITERALLY copying this [video
 Download the serverphonegui and the clientpc, for the serverphonegui i tried only with [pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US&pli=1) and it works, you just copy the serverphonegui and on pydroid open the pip and type tkinter then you can run the gui.py. For the clientpc run on cmd pip install pyautogui just run the .bat.
 # Configuration
 Make sure your pc and phone are connected to the same wifi then change the ipdato in serverphonegui and clientpc to your phone ip. If your phone isn't 1080x1920 then somethings could cut out of the screen but i don't know how to scale things for other screens that aren't 1080x1920 so if you know how to do it then report it to issues. To change the images follow this scheme:
-![scheme](https://github.com/user-attachments/assets/eb2ac591-611a-49ba-a668-322f663c952f)
-Install the ![SoundBoard](https://github.com/Kalejin/DCSB)
+
+
+![scheme](https://github.com/user-attachments/assets/efb41733-a6d9-43dc-9c9d-fd50143c3633)
+
+
+
+Install the [SoundBoard](https://github.com/Kalejin/DCSB) and then opening the clientpc.py you can change what button are gonna be pressed:
+
+
+![Tasti](https://github.com/user-attachments/assets/45cf0c21-d1ce-4960-9419-1d71bda7a82d) 
+
+
+
+(i use the button16 to stop the soundboard)
