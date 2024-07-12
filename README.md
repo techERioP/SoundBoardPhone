@@ -8,7 +8,7 @@ Make sure your pc and phone are connected to the same wifi then change the ipdat
 
 
 ![scheme](https://github.com/user-attachments/assets/efb41733-a6d9-43dc-9c9d-fd50143c3633)
-
+(you will not see the numbers in the serverphonegui)
 
 
 Install the [SoundBoard](https://github.com/Kalejin/DCSB) and then opening the clientpc.py you can change what button are gonna be pressed:
