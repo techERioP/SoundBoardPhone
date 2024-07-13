@@ -14,7 +14,8 @@ Make sure your pc and phone are connected to the same wifi then change the ipdat
 Install the [SoundBoard](https://github.com/Kalejin/DCSB) and then opening the clientpc.py you can change what button are gonna be pressed:
 
 
-![Tasti](https://github.com/user-attachments/assets/45cf0c21-d1ce-4960-9419-1d71bda7a82d) 
+
+![Tasti](https://github.com/user-attachments/assets/3f9d4400-8dce-446c-8b5c-5108e73da931)
 
 
 
