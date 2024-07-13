@@ -1,2 +1,6 @@
 latest: 2.0
-testing 2.0 version
+3
+/gui(2).py
+/assets/frame0/button_18.png
+/assets/frame0/button_19.png
+version 2.0 is soon =)
