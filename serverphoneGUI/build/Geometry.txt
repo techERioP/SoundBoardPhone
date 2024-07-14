@@ -17,3 +17,5 @@
 ----------------------
 16: button_16.png clicked
 17: button_17.png clicked
+18: button_18.png clicked (volume up button)
+19: button_19.png clicked (volume down button)
