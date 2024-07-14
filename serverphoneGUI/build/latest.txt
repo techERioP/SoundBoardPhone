@@ -1,4 +1,4 @@
 latest: 2.0
 1
-/gui(2).py
+gui(2).py
 version 2.0 is soon =)
