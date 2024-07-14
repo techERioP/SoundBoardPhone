@@ -19,7 +19,7 @@ ipdato = ''
 
 
 linea_numero2 = 1
-app_version = 'latest: 2.1'
+app_version = 'latest: 3.1'
 filename = 'latest.txt'
 files_number = '0'
 linea_numero = 0
