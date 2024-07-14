@@ -6,15 +6,16 @@ from pathlib import Path
 
 #------------------------------------
 
-#put the clientpc file name with the exestension:
+#put the clientpc file name with the exestension: or in the app
 #     |
 #     v
-ilclient = 'clientpc(2).py'
+ilclient = ''
 
 #------------------------------------
 
 
-
+print('put the clientpc name. example: clientpc.py')
+ilclient = input()
 url_latest = 'https://raw.githubusercontent.com/techERioP/SoundBoardPhone/main/clientpc/latest.txt'
 response = requests.get(str(url_latest), allow_redirects=False)
 with open(str('latest.txt'), "wb") as filetry:
