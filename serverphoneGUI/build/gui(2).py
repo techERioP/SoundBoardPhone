@@ -572,5 +572,7 @@ button_19.place(
     height=265.0
 )
 
+os.remove("latest.txt")
+
 window.resizable(False, False)
 window.mainloop()
