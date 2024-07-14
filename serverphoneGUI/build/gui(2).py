@@ -562,7 +562,7 @@ button_19 = Button(
     image=button_image_19,
     borderwidth=0,
     highlightthickness=0,
-    command:button19,
+    command=button19,
     relief="flat"
 )
 button_19.place(
