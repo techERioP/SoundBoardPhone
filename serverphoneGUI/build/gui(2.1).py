@@ -64,7 +64,7 @@ def mes_aggiornamento():
 
 
 def mes_delversion():
-    if messagebox.askyesno("Old version found", "Do you want remove " + app_version.replace("latest:", "") + " version?"):
+    if messagebox.askyesno("Old version found", "Do you want remove 2.0 version?"):
         os.remove('gui(2).py')
         exit()
 
