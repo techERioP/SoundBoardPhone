@@ -7,6 +7,8 @@ ipdato = '192.168.1.4'
 
 
 # version of the app
+
+
 app_version = 'latest: 2.1'
 
 
