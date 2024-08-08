@@ -1,9 +1,10 @@
 'latest: 3.0'
-5
+6
 clientpc(3).py
 openme.bat
 openme.sh
 ChangeButtonImgPC.py
 Geometry.txt
+NewButtons/1.png
 3.0 about to release in releases
 will change images of button from pc
