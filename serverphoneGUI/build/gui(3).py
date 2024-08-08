@@ -64,7 +64,7 @@ def mes_aggiornamento():
 
 
 def mes_delversion(version_to_remove, name_fileeee):
-    if messagebox.askyesno("Old version found", str("Do you want remove ") + str(version_to_remove) + str(" version?"):
+    if messagebox.askyesno("Old version found", str("Do you want remove ") + str(version_to_remove) + str(" version?")):
         os.remove(str(name_fileeee))
         exit()
 
