@@ -2,7 +2,6 @@ import os
 import socket
 from PIL import Image
 import zipfile
-import tkinter
 
 
 #put the phone ip
