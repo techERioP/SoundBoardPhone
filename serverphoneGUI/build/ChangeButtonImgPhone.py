@@ -17,7 +17,7 @@ while made_in_ravenna:
     file.write(made_in_ravenna)
     made_in_ravenna = clientsocket.recv(2048)
 
-print(os.system("unzip -o buttons_img.zip"))
+os.system("unzip -o buttons_img.zip")
 print("\n------------------------\nChanging images done\n------------------------")
 
 file.close()
