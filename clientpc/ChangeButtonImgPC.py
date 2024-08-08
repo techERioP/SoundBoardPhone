@@ -151,7 +151,7 @@ while True:
             rotated_img.save("assets/frame0/button_19.png")
         os.remove("NewButtons/19.png")
     else:
-        with zipfile.ZipFile("buttons_img.zip", 'w', zipfile.ZIP_DEFLATED) as zipf:
+        with zipfile.ZipFile("buttons_img.zip", 'w', zipfile.ZIP_STORED) as zipf:
             files = os.listdir("assets/frame0")
             for file in files:
                 pathfile_italy = str(str("assets/frame0/") + str(file))
