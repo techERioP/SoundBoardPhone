@@ -1,3 +1,3 @@
 while true; do
-  py "AI.txt"
+  py "clientpc(3).py"
 done
