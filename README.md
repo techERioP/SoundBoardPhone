@@ -17,6 +17,6 @@ Install the [SoundBoard](https://github.com/Kalejin/DCSB) and then opening the c
 
 ![Tasti](https://github.com/user-attachments/assets/3f9d4400-8dce-446c-8b5c-5108e73da931)
 
-
+(changing these settings is optional with new 2.1 version)
 
 (i use the button16 to stop the soundboard)
