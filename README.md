@@ -8,6 +8,7 @@ Make sure your pc and phone are connected to the same wifi then change the "ipda
 
 
 ![scheme](https://github.com/user-attachments/assets/efb41733-a6d9-43dc-9c9d-fd50143c3633)
+
 (you will not see the numbers in the serverphonegui)
 
 
