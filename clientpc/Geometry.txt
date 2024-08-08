@@ -1,0 +1,21 @@
+272x256 rotate to left 90°
+1: button_3.png clicked
+2: button_12.png clicked
+3: button_11.png clicked
+4: button_13.png clicked
+5: button_7.png clicked
+6: button_2.png clicked
+7: button_10.png clicked
+8: button_9.png clicked
+9: button_15.png clicked
+10: button_6.png clicked
+11: button_1.png clicked
+12: button_4.png clicked
+13: button_8.png clicked
+14: button_14.png clicked
+15: button_5.png clicked
+----------------------
+16: button_16.png clicked
+17: button_17.png clicked
+18 (volume up): button_18.png clicked
+19 (volume down): button_19.png clicked
