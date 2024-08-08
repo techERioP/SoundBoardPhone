@@ -63,9 +63,9 @@ def mes_aggiornamento():
         print("user choose no")
 
 
-def mes_delversion():
-    if messagebox.askyesno("Old version found", "Do you want remove 2.0 version?"):
-        os.remove('gui(2).py')
+def mes_delversion(version_to_remove, name_fileeee):
+    if messagebox.askyesno("Old version found", str("Do you want remove ") + str(version_to_remove) + str(" version?"):
+        os.remove(str(name_fileeee))
         exit()
 
     else:
@@ -90,7 +90,11 @@ else:
     mes_aggiornamento()
 
 if os.path.exists('gui(2).py'):
-    mes_delversion()
+    mes_delversion("2.0", "gui(2).py")
+elif os.path.exists("gui(2.1).py"):
+    mes_delversion("2.1", "gui(2.1).py")
+elif os.path.exists("gui (1).py"):
+    mes_delversion("1.0", "gui (1).py")
 else:
     print("")
 
