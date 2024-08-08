@@ -1,5 +1,9 @@
-'latest: 2.1'
-2
-clientpc(2.1).py
+'latest: 3.0'
+5
+clientpc(3).py
 openme.bat
-Lol 2.1 is coming out soon
+openme.sh
+ChangeButtonImgPC.py
+Geometry.txt
+3.0 about to release in releases
+will change images of button from pc
