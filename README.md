@@ -1,4 +1,4 @@
-# Temponary closing this project (for high school)
+# Temponary closing this project
 # SoundBoardPhone
 A program to use your phone as a SoundBoard for your pc:
 This program is made by me (not a good programmer) LITERALLY copying this [video](https://www.youtube.com/watch?v=Lbfe3-v7yE0) and using [Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) so don't exepct support because i don't even know very well english.
